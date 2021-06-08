@@ -12,7 +12,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 matplotlib==1.5.1
 numpy==1.11.0
-Pillow==3.1.2
+Pillow==8.2.0
 pygame===1.9.1release
 pygobject==3.20.0
 pyparsing==2.0.3
